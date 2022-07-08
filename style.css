@@ -1,0 +1,12 @@
+h1{
+    height: 40px;
+    backgroung: blue;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+p{
+    color: green;
+    width:700px;
+    border: 2px solid red;
+    margin-left: 100px;
+}
